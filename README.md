@@ -91,10 +91,11 @@
 - [TensorFlow Playground](http://playground.tensorflow.org) - English
 
 ## Interviews
-- [Interview Cake](https://www.interviewcake.com) - English
-- [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview) - English
+- [Interview Cake](https://www.interviewcake.com)
+- [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview)
 - [Github// Software Engineering technical interviews](https://github.com/kdn251/interviews)
 - [Github// Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- [Github// Interactive Python coding interview challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
 ## Videos
 - [TED Talk// How algorithms shape our world](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world) by Kevin Slavin
@@ -125,7 +126,6 @@
 - [Google Code Jam Kickstart](https://code.google.com/codejam/kickstart) for university students looking to develop their coding skills and potentially pursue a Google career.
 - [Google #Hash Code](https://hashcode.withgoogle.com) for students in Africa, Europe, and the Middle East looking to work as a team on real Google problems.
 - [Google Summer of Code](https://summerofcode.withgoogle.com) is a global program focused on introducing students to open source software development. Students work on a 3 month programming project with an open source organization during their break from university.
-
 
 ## Tools
 - [Tangle](https://github.com/enjalot/algovis) - Javascript
