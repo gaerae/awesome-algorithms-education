@@ -1,7 +1,7 @@
 # Awesome Algorithms
 > A curated list to learn and/or practice about algorithms. Your [contributions](https://github.com/gaerae/awesome-algorithms/blob/master/CONTRIBUTING.md) are welcome!
 >
-> [Wiki](https://github.com/gaerae/awesome-algorithms/wiki) for more lists of algorithms by country.
+> **[Wiki](https://github.com/gaerae/awesome-algorithms/wiki) for more lists of algorithms by country.**
 
 ## Contents
 - **[Courses](#courses)**
@@ -122,6 +122,8 @@
 
 ## Articles
 - [stoimen's web log](http://www.stoimen.com/blog/category/algorithms)
+- [What are the best and efficient ways to learn algorithms for beginners?](https://www.quora.com/What-are-the-best-and-efficient-ways-to-learn-algorithms-for-beginners)
+- [What are the best books on algorithms and data structures?](https://www.quora.com/What-are-the-best-books-on-algorithms-and-data-structures)
 
 ## Competitions
 - [Google Code Jam](https://code.google.com/codejam), Google’s largest coding competition, calls on programmers around the world to put their skills to the test by solving multiple rounds of algorithmic puzzles.
@@ -143,7 +145,7 @@
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
 - [Code.org](https://code.org) - Anybody can learn.
-- [CheckiO](https://checkio.org) - online game for Python and JavaScript coders.
+- [CheckiO](https://checkio.org) - Online game for Python and JavaScript coders.
 - [HUST Online Judge System](https://github.com/freefcw/hustoj-neo) - Online Judge is a web application.
  
 ## License
