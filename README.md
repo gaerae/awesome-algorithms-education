@@ -15,7 +15,7 @@
 - **[Tools](#tools)**
 - **[Miscellaneous](#miscellaneous)**
 
-## Course
+## Courses
 #### Introductory
 - [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) by Khan Academy - **free** / English
 - [Fundamentals of Algorithms](http://www.geeksforgeeks.org/fundamentals-of-algorithms) by Geeks for Geeks - **free** / English
@@ -118,7 +118,7 @@
 - [Grokking Algorithms](http://www.manning.com/bhargava)
 
 ## Articles
-- none
+- [stoimen's web log](http://www.stoimen.com/blog/category/algorithms)
 
 ## Competitions
 - [Google Code Jam](https://code.google.com/codejam), Google’s largest coding competition, calls on programmers around the world to put their skills to the test by solving multiple rounds of algorithmic puzzles.
@@ -139,7 +139,8 @@
 - [OEDb(Open Education Databases): Algorithm](http://oedb.org/open/search-results/?search-term=algorithm)
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [code.org](https://code.org) - Anybody can learn.
+- [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
+- [Code.org](https://code.org) - Anybody can learn.
 - [CheckiO](https://checkio.org) - online game for Python and JavaScript coders.
  
 ## License
