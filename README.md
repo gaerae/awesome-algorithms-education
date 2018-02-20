@@ -144,6 +144,7 @@
 - [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
 - [Code.org](https://code.org) - Anybody can learn.
 - [CheckiO](https://checkio.org) - online game for Python and JavaScript coders.
+- [HUST Online Judge System](https://github.com/freefcw/hustoj-neo) - Online Judge is a web application.
  
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
