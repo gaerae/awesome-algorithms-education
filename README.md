@@ -3,7 +3,7 @@
 >
 > **[Wiki](https://github.com/gaerae/awesome-algorithms/wiki) for more lists of algorithms by country.**
 
-<p align="center"><img width="541"src="awesome-algorithms.png"></p>
+![awesome-algorithms](awesome-algorithms.png)
 
 ## Contents
 - **[Courses](#courses)**
