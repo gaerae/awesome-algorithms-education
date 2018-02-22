@@ -1,7 +1,7 @@
 # Awesome Algorithms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list to learn and/or practice about algorithms. Your [contributions](https://github.com/gaerae/awesome-algorithms/blob/master/CONTRIBUTING.md) are welcome!
 >
-> **[Wiki](https://github.com/gaerae/awesome-algorithms/wiki) for more lists of algorithms by country.**
+> 😎 **[Wiki](https://github.com/gaerae/awesome-algorithms/wiki) for more lists of algorithms by country.**
 
 ![awesome-algorithms](awesome-algorithms.png)
 
