@@ -3,22 +3,22 @@
 # Awesome Algorithms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/gaerae/awesome-algorithms.svg?branch=master)](https://travis-ci.org/gaerae/awesome-algorithms)
 > 알고리즘에 대해 배우고 연습할 수 있는 선별된 목록입니다. 당신의 [참여](https://github.com/gaerae/awesome-algorithms/blob/master/CONTRIBUTING.md)는 언제나 환영합니다! 
 >
-> [English](docs/en.md) • **[😎 한국어(Korean)](docs/ko.md)**
+> [English](/docs/en.md) • **[😎 한국어(Korean)](/docs/ko.md)**
 
-## Contents
-- **[코스](#코스)**
-  - **[초급](#초급)**
-  - **[중급](#중급)**
-  - **[고급](#고급)**
-- **[저지](#저지)**
-- **[시각화](#시각화)**
-- **[인터뷰](#인터뷰)**
-- **[비디오](#비디오)**
-- **[도서](#도서)**
-- **[문서](#문서)**
-- **[대회](#대회)**
-- **[도구](#도구)**
-- **[도움될만한 읽을거리](#도움될만한-읽을거리)**
+## 목차
+- **[코스](#%EC%BD%94%EC%8A%A4)**
+  - **[초급](#%EC%B4%88%EA%B8%89)**
+  - **[중급](#%EC%A4%91%EA%B8%89)**
+  - **[고급](#%EA%B3%A0%EA%B8%89)**
+- **[저지](#%EC%A0%80%EC%A7%80)**
+- **[시각화](#%EC%8B%9C%EA%B0%81%ED%99%94)**
+- **[인터뷰](#%EC%9D%B8%ED%84%B0%EB%B7%B0)**
+- **[비디오](#%EB%B9%84%EB%94%94%EC%98%A4)**
+- **[도서](#%EB%8F%84%EC%84%9C)**
+- **[문서](#%EB%AC%B8%EC%84%9C)**
+- **[대회](#%EB%8C%80%ED%9A%8C)**
+- **[도구](#%EB%8F%84%EA%B5%AC)**
+- **[도움될만한 읽을거리](#%EB%8F%84%EC%9B%80%EB%90%A0%EB%A7%8C%ED%95%9C-%EC%9D%BD%EC%9D%84%EA%B1%B0%EB%A6%AC)**
 
 ## 코스
 #### 초급

@@ -3,7 +3,7 @@
 # Awesome Algorithms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/gaerae/awesome-algorithms.svg?branch=master)](https://travis-ci.org/gaerae/awesome-algorithms)
 > A curated list to learn and/or practice about algorithms. Your [contributions](https://github.com/gaerae/awesome-algorithms/blob/master/CONTRIBUTING.md) are welcome!
 >
-> **[😎 English](docs/en.md)** • [한국어 (Korean)](docs/ko.md)
+> **[😎 English](/docs/en.md)** • [한국어 (Korean)](/docs/ko.md)
 
 ## Contents
 - **[Courses](#courses)**
