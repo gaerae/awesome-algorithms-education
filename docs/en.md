@@ -15,7 +15,7 @@
 - **[Interviews](#interviews)**
 - **[Videos](#videos)**
 - **[Books](#books)**
-- **[Articles](#Articles)**
+- **[Articles](#articles)**
 - **[Competitions](#competitions)**
 - **[Tools](#tools)**
 - **[Miscellaneous](#miscellaneous)**

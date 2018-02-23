@@ -5,28 +5,33 @@
 >
 > [English](/docs/en.md) • **[😎 한국어(Korean)](/docs/ko.md)**
 
-## 목차
-- **[코스](#%EC%BD%94%EC%8A%A4)**
-  - **[초급](#%EC%B4%88%EA%B8%89)**
-  - **[중급](#%EC%A4%91%EA%B8%89)**
-  - **[고급](#%EA%B3%A0%EA%B8%89)**
-- **[저지](#%EC%A0%80%EC%A7%80)**
-- **[시각화](#%EC%8B%9C%EA%B0%81%ED%99%94)**
-- **[인터뷰](#%EC%9D%B8%ED%84%B0%EB%B7%B0)**
-- **[비디오](#%EB%B9%84%EB%94%94%EC%98%A4)**
-- **[도서](#%EB%8F%84%EC%84%9C)**
-- **[문서](#%EB%AC%B8%EC%84%9C)**
-- **[대회](#%EB%8C%80%ED%9A%8C)**
-- **[도구](#%EB%8F%84%EA%B5%AC)**
-- **[도움될만한 읽을거리](#%EB%8F%84%EC%9B%80%EB%90%A0%EB%A7%8C%ED%95%9C-%EC%9D%BD%EC%9D%84%EA%B1%B0%EB%A6%AC)**
+## Contents
+- **[Courses](#courses)**
+  - **[Introductory](#introductory)**
+  - **[Intermediate](#intermediate)**
+  - **[Advanced](#advanced)**
+- **[Judges](#judges)**
+- **[Visualizations](#visualizations)**
+- **[Interviews](#interviews)**
+- **[Videos](#videos)**
+- **[Books](#books)**
+- **[Articles](#articles)**
+- **[Competitions](#competitions)**
+- **[Tools](#tools)**
+- **[Miscellaneous](#miscellaneous)**
 
-## 코스
-#### 초급
+## Courses
+> 코스
+#### Introductory
+> 초급
+
 - [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) by Khan Academy - **free** / English
 - [Fundamentals of Algorithms](http://www.geeksforgeeks.org/fundamentals-of-algorithms) by Geeks for Geeks - **free** / English
 - [Inflearn// 영리한 프로그래밍을 위한 알고리즘 강좌](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C) by ohheum - **free** / Korean
 
-#### 중급
+#### Intermediate
+> 중급
+
 - [Class Central// Algorithms and Data Structures](https://www.class-central.com/subject/algorithms-and-data-structures) from MOOCs - **free** / English
 - [edX// Algorithms](https://www.edx.org/course/algorithms) by IITBombayX- **free** / English
 - [Udacity// Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) by Michael Littman - **free** / English
@@ -39,11 +44,15 @@
 - [Coursera// Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) by Princeton University - **free** / English
 - [Coursera// Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) by Princeton University - **free** / English
 
-#### 고급
+#### Advanced
+> 고급
+
 - [Data Structures and Algorithms](http://online-learning.harvard.edu/course/data-structures-and-algorithms) by Harvard University - **Paid** / English
 - [Coursera// Algorithms Specialization](https://www.coursera.org/specializations/algorithms) by Stanford University - **Paid** / English
 
-## 저지
+## Judges
+> 저지
+
 - [HackerRank](https://www.hackerrank.com/domains/algorithms) - English
 - [Codility](https://app.codility.com/programmers) - English
 - [TopCoder](https://www.topcoder.com) - English
@@ -84,7 +93,9 @@
 - [컴퓨터공학부 Online Judge](http://judge.koreatech.ac.kr) by 한국기술교육대학교 - Korean
 - [GSHS Judge ON](http://www.judgeon.net) by 경남과학고등학교 - Korean
 
-## 시각화
+## Visualizations
+> 시각화
+
 - [Algorithm Visualizer](http://algo-visualizer.jasonpark.me) - English
 - [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - English
 - [VisuAlgo](https://visualgo.net) - English, Korean, Chinese, Japanese
@@ -98,14 +109,18 @@
 - [Algorithm Wiki by Will Thimbleby](http://will.thimbleby.net/algorithms) - English
 - [TensorFlow Playground](http://playground.tensorflow.org) - English
 
-## 인터뷰
+## Interviews
+> 인터뷰
+
 - [Interview Cake](https://www.interviewcake.com)
 - [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview)
 - [Github// Software Engineering technical interviews](https://github.com/kdn251/interviews)
 - [Github// Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [Github// Interactive Python coding interview challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
-## 비디오
+## Videos
+> 비디오
+
 - [TED Talk// How algorithms shape our world](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world) by Kevin Slavin
 - [Youtube// Algorithms](https://www.youtube.com/playlist?list=PL01A89F4E9E5F3ADE) by Oresoft LWC
 - [Youtube// Computer Sc - Programming and Data Structure](https://www.youtube.com/playlist?list=PLD9781AC5EBC9FA16) by nptelhrd
@@ -115,7 +130,9 @@
 - [Youtube// 15 Sorting Algorithms in 6 Minutes](https://youtu.be/kPRA0W1kECg)
 - [Youtube// AlgoRythmics](https://www.youtube.com/user/AlgoRythmics/videos) by Sapientia University
 
-## 도서
+## Books
+> 도서
+
 - [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - **free**
 - [Data Structures and Algorithms](https://people.mpi-inf.mpg.de/~mehlhorn/Toolbox.html) - **free/Paid** / Free PDF
 - [Korea Olympiad in Informatics](https://www.digitalculture.or.kr/koi/StudyBook.do) - **free**
@@ -128,26 +145,34 @@
 - [알고리즘 도감](http://book.naver.com/bookdb/book_detail.nhn?bid=13272714) - 제이펍, 2018 / 그림으로 쉽게 설명되어 있으며 모바일 앱도 제작되었다.
 - [코딩 인터뷰 완전 분석](http://book.naver.com/bookdb/book_detail.nhn?bid=6986417) - 인사이트, 2012 / 150가지 프로그래밍 문제와 해법
 
-## 문서
+## Articles
+> 문서
+
 - [stoimen's web log](http://www.stoimen.com/blog/category/algorithms)
 - [What are the best and efficient ways to learn algorithms for beginners?](https://www.quora.com/What-are-the-best-and-efficient-ways-to-learn-algorithms-for-beginners)
 - [What are the best books on algorithms and data structures?](https://www.quora.com/What-are-the-best-books-on-algorithms-and-data-structures)
 - [NEXTERS 알고리즘 스터디 자료 외](http://d2.naver.com/news/4850628) by [NAVER D2](http://d2.naver.com)
 
-## 대회
+## Competitions
+> 대회
+
 - [Google Code Jam](https://code.google.com/codejam) 전 세계의 프로그래머들과 알고리즘 경쟁을 해볼 수 있는 프로그램입니다.
 - [Google Code Jam Kickstart](https://code.google.com/codejam/kickstart) 코드잼과 비슷하지만 구글 채용에 초점이 맞춰진 프로그램입니다.
 - [Google #Hash Code](https://hashcode.withgoogle.com) 구글에 입사하고 싶은 아프리카, 유럽, 그리고 중동의 학생들을 위한 곳입니다.
 - [Google Summer of Code](https://summerofcode.withgoogle.com) 오픈 소스 소프트웨어 개발을 위해 학생들을 소개하는 데 초점을 맞춘 글로벌 프로그램이다. 학생들은 대학을 졸업하는 동안 열린 소스 기관과 함께 3개월 동안 프로그래밍 프로젝트를 한다.
 
-## 도구
+## Tools
+> 도구
+
 - [Tangle](https://github.com/enjalot/algovis) - Javascript
 - [LaTeX2HTML5](http://latex2html5.com) - Javascript
 - [Vamonos](http://rosulek.github.io/vamonos) - Javascript
 - [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting) - C++
 - [GeneaQuilts](http://www.aviz.fr/geneaquilts) - Java
 
-## 도움될만한 읽을거리
+## Miscellaneous
+> 도움될만한 읽을거리
+
 - [Youtube// MIT OpenCourseWare](https://www.youtube.com/user/MIT/playlists)
 - [OEDb(Open Education Databases): Algorithm](http://oedb.org/open/search-results/?search-term=algorithm)
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
@@ -158,7 +183,9 @@
 - [HUST Online Judge System](https://github.com/freefcw/hustoj-neo) - 온라인 저지 사이트를 만들수 있는 오픈소스 프로젝트
 - [백준 온라인 저지는 어떻게 만들어졌을까?](https://goo.gl/qwgBAp) - 2015년 백준 저지 아이텍처
  
-## 라이선스
+## License
+> 라이선스
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 [gaerae](https://github.com/gaerae)는 법으로 가능한 범위 내에서 모든 저작권과 저작인접권을 포기합니다.
