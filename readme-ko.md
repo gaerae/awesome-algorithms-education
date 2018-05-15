@@ -52,7 +52,7 @@
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) from Coursera(Stanford University) - **Paid** / English
 
 ## Online judges
-> 온라인 저지
+> 온라인 저지란 프로그래밍 대회에서 프로그램들을 시험할 목적으로 만들어진 온라인 시스템이다.
 
 - [HackerRank](https://www.hackerrank.com/domains/algorithms) - English
 - [Codility](https://app.codility.com/programmers) - English
