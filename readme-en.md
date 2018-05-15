@@ -10,7 +10,7 @@
   - **[Introductory](#introductory)**
   - **[Intermediate](#intermediate)**
   - **[Advanced](#advanced)**
-- **[Judges](#judges)**
+- **[Online judges](#Online-judges)**
 - **[Visualizations](#visualizations)**
 - **[Interviews](#interviews)**
 - **[Videos](#videos)**
@@ -43,7 +43,7 @@
 - [Data Structures and Algorithms](http://online-learning.harvard.edu/course/data-structures-and-algorithms) from Harvard University - **Paid** / English
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) from Coursera(Stanford University) - **Paid** / English
 
-## Judges
+## Online judges
 - [HackerRank](https://www.hackerrank.com/domains/algorithms) - English
 - [Codility](https://app.codility.com/programmers) - English
 - [TopCoder](https://www.topcoder.com) - English
@@ -152,7 +152,7 @@
 - [CheckiO](https://checkio.org) - English / Online game for Python and JavaScript coders.
 - [HUST Online Judge System](https://github.com/freefcw/hustoj-neo) - English / Online Judge is a web application.
 - [Tech stack for Baekjoon online judge](https://goo.gl/qwgBAp) - Korean / How to choose a technology stack for judge?
- 
+
 ## License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
