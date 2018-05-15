@@ -10,7 +10,7 @@
   - **[Introductory](#introductory)** 초급
   - **[Intermediate](#intermediate)** 중급
   - **[Advanced](#advanced)** 고급
-- **[Online judges](#Online-judges)** 저지
+- **[Online judges](#online-judges)** 저지
 - **[Visualizations](#visualizations)** 시각화
 - **[Interviews](#interviews)** 인터뷰
 - **[Videos](#videos)** 비디오

@@ -10,7 +10,7 @@
   - **[Introductory](#introductory)**
   - **[Intermediate](#intermediate)**
   - **[Advanced](#advanced)**
-- **[Online judges](#Online-judges)**
+- **[Online judges](#online-judges)**
 - **[Visualizations](#visualizations)**
 - **[Interviews](#interviews)**
 - **[Videos](#videos)**
