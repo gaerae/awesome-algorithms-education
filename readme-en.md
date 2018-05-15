@@ -44,6 +44,8 @@
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) from Coursera(Stanford University) - **Paid** / English
 
 ## Online judges
+> An Online Judging system is an online system to test programs in programming contests automatically.
+
 - [HackerRank](https://www.hackerrank.com/domains/algorithms) - English
 - [Codility](https://app.codility.com/programmers) - English
 - [TopCoder](https://www.topcoder.com) - English
