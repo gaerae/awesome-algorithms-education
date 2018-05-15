@@ -154,6 +154,6 @@
 - [Tech stack for Baekjoon online judge](https://goo.gl/qwgBAp) - Korean / How to choose a technology stack for judge?
  
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [gaerae](https://github.com/gaerae) has waived all copyright and related or neighboring rights to this work.

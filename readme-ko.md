@@ -183,6 +183,6 @@
 ## License
 > 라이선스
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 [gaerae](https://github.com/gaerae)는 법으로 가능한 범위 내에서 모든 저작권과 저작인접권을 포기합니다.
