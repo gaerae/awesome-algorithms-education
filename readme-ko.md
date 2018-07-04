@@ -6,11 +6,11 @@
 > [English](readme-en.md) • **[😎 한국어(Korean)](readme-ko.md)**
 
 ## Contents
-- **[Courses](#courses)** 코스
-  - **[Introductory](#introductory)** 초급
-  - **[Intermediate](#intermediate)** 중급
-  - **[Advanced](#advanced)** 고급
-- **[Online judges](#online-judges)** 저지
+- **[Courses](#courses)** 강좌
+  - **[Introductory](#introductory)** 초급 강좌
+  - **[Intermediate](#intermediate)** 중급 강좌
+  - **[Advanced](#advanced)** 고급 강좌
+- **[Online judges](#online-judges)** 온라인 저지
 - **[Visualizations](#visualizations)** 시각화
 - **[Interviews](#interviews)** 인터뷰
 - **[Videos](#videos)** 비디오
@@ -21,17 +21,17 @@
 - **[Miscellaneous](#miscellaneous)** 도움될만한 읽을거리
 
 ## Courses
-> 코스
+> 강좌
 
 #### Introductory
-> 초급
+> 초급 강좌
 
 - [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) from Khan Academy - **Free** / English
 - [Fundamentals of Algorithms](http://www.geeksforgeeks.org/fundamentals-of-algorithms) from Geeks for Geeks - **Free** / English
 - [Algorithm course for smart programming](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C) from Inflearn - **Free** / Korean
 
 #### Intermediate
-> 중급
+> 중급 강좌
 
 - [Algorithms and Data Structures](https://www.class-central.com/subject/algorithms-and-data-structures) from Class Central - **Free** / English
 - [Algorithms](https://www.edx.org/course/algorithms) from edX(IITBombay)- **Free** / English
@@ -46,7 +46,7 @@
 - [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) from Coursera(Princeton University) - **Free** / English
 
 #### Advanced
-> 고급
+> 고급 강좌
 
 - [Data Structures and Algorithms](http://online-learning.harvard.edu/course/data-structures-and-algorithms) from Harvard University - **Paid** / English
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) from Coursera(Stanford University) - **Paid** / English
