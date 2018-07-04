@@ -141,6 +141,7 @@
 - [Algorithms](http://algs4.cs.princeton.edu/home/)
 - [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms)
 - [Grokking Algorithms](http://www.manning.com/bhargava)
+- [프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략](http://book.algospot.com) - Korean
 
 ## Articles
 > 문서

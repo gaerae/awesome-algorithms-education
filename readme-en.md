@@ -122,6 +122,7 @@
 - [Algorithms](http://algs4.cs.princeton.edu/home/)
 - [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms)
 - [Grokking Algorithms](http://www.manning.com/bhargava)
+- [Algorithmic Problem Solving Strategies](http://book.algospot.com) - Korean
 
 ## Articles
 - [stoimen's web log](http://www.stoimen.com/blog/category/algorithms) - English
