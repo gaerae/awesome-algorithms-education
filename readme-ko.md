@@ -1,7 +1,7 @@
 ![awesome-algorithms](awesome-algorithms.png)
 
 # Awesome Algorithms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/gaerae/awesome-algorithms.svg?branch=master)](https://travis-ci.org/gaerae/awesome-algorithms)
-> 알고리즘에 대해 배우고 연습할 수 있는 선별된 목록입니다. 당신의 [참여](https://github.com/gaerae/awesome-algorithms/blob/master/contributing.md)는 언제나 환영합니다! 
+> 알고리즘에 대해 배우고 연습할 수 있는 선별된 목록입니다. 당신의 [참여](https://github.com/gaerae/awesome-algorithms/blob/master/contributing.md)는 언제나 환영합니다!
 >
 > [English](readme-en.md) • **[😎 한국어(Korean)](readme-ko.md)**
 
@@ -10,7 +10,7 @@
   - **[Introductory](#introductory)** 초급
   - **[Intermediate](#intermediate)** 중급
   - **[Advanced](#advanced)** 고급
-- **[Judges](#judges)** 저지
+- **[Online judges](#online-judges)** 저지
 - **[Visualizations](#visualizations)** 시각화
 - **[Interviews](#interviews)** 인터뷰
 - **[Videos](#videos)** 비디오
@@ -51,8 +51,8 @@
 - [Data Structures and Algorithms](http://online-learning.harvard.edu/course/data-structures-and-algorithms) from Harvard University - **Paid** / English
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) from Coursera(Stanford University) - **Paid** / English
 
-## Judges
-> 저지
+## Online judges
+> 온라인 저지란 프로그래밍 대회에서 프로그램들을 시험할 목적으로 만들어진 온라인 시스템이다.
 
 - [HackerRank](https://www.hackerrank.com/domains/algorithms) - English
 - [Codility](https://app.codility.com/programmers) - English
@@ -180,7 +180,7 @@
 - [CheckiO](https://checkio.org) - Python 혹은 JavaScript를 온라인 게임을 통해 학습할 수 있습니다.
 - [HUST Online Judge System](https://github.com/freefcw/hustoj-neo) - 온라인 저지 사이트를 만들수 있는 오픈소스 프로젝트
 - [백준 온라인 저지는 어떻게 만들어졌을까?](https://goo.gl/qwgBAp) - Korean
- 
+
 ## License
 > 라이선스
 
