@@ -1,6 +1,6 @@
 ![awesome-algorithms](awesome-algorithms.png)
 
-# Awesome Algorithms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/gaerae/awesome-algorithms.svg?branch=master)](https://travis-ci.org/gaerae/awesome-algorithms)
+# Awesome Algorithms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > 알고리즘에 대해 배우고 연습할 수 있는 선별된 목록입니다. 당신의 [참여](https://github.com/gaerae/awesome-algorithms/blob/master/contributing.md)는 언제나 환영합니다!
 >
 > [English](readme-en.md) • **[😎 한국어(Korean)](readme-ko.md)**
