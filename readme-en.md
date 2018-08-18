@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://gaerae.com/awesome-algorithms/">
-    <img src="/awesome-algorithms.png" alt="Awesome Algorithms" />
-  </a>
-</p>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Algorithms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list to learning and practicing about algorithm. Your [contributions](https://github.com/gaerae/awesome-algorithms/blob/master/contributing.md) are welcome!
 >
 > **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md)
