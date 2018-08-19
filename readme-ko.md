@@ -1,14 +1,16 @@
 # Awesome Algorithms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> 알고리즘에 대해 배우고 연습할 수 있는 선별된 목록입니다. 당신의 [참여](https://github.com/gaerae/awesome-algorithms/blob/master/contributing.md)는 언제나 환영합니다!
->
-> [English](readme-en.md) • **[😎 한국어(Korean)](readme-ko.md)**
+알고리즘에 대해 배우고 연습할 수 있는 선별된 목록입니다. 배운 것을 연습하려면 [Competitive programming(알고리즘 트레이닝)](#competitive-programming) 목록을 확인하세요.
+
+만약 기여하고 싶다면, [기여 가이드](https://github.com/gaerae/awesome-algorithms/blob/master/contributing.md) 문서를 확인하세요.
+
+언어: [English](readme-en.md) • **[😎 한국어(Korean)](readme-ko.md)**
 
 ## Contents
 - **[Courses](#courses)** 강좌
   - **[Introductory](#introductory)** 초급 강좌
   - **[Intermediate](#intermediate)** 중급 강좌
   - **[Advanced](#advanced)** 고급 강좌
-- **[Competitive programming](#competitive-programming)** 프로그래밍 경쟁
+- **[Competitive programming](#competitive-programming)** 알고리즘 트레이닝
 - **[Visualizations](#visualizations)** 시각화
 - **[Interviews](#interviews)** 인터뷰
 - **[Videos](#videos)** 비디오
@@ -50,7 +52,7 @@
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) - **Paid** / English / Coursera(Stanford University)
 
 ## Competitive programming
-> 프로그래밍 경쟁
+> 알고리즘 트레이닝
 
 - [HackerRank](https://www.hackerrank.com/domains/algorithms) - English
 - [Codility](https://app.codility.com/programmers) - English

@@ -1,7 +1,9 @@
 # Awesome Algorithms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> A curated list to learning and practicing about algorithm. Your [contributions](https://github.com/gaerae/awesome-algorithms/blob/master/contributing.md) are welcome!
->
-> **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md)
+The list to learning and practicing about algorithms. Practice What You Have Learned in [Competitive programming](#competitive-programming). I hope you'll find it useful.
+
+If you want to contribute, please read the [contribution guidelines](https://github.com/gaerae/awesome-algorithms/blob/master/contributing.md).
+
+Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md)
 
 ## Contents
 - **[Courses](#courses)**
