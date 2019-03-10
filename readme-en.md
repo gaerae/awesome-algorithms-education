@@ -1,5 +1,7 @@
 # Awesome Algorithms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-The list to learning and practicing about algorithms. Practice What You Have Learned in [Competitive programming](#competitive-programming). I hope you'll find it useful.
+An algorithm is a list of rules to follow in order to solve a problem.
+
+Algorithms need to have their steps in the right order. Think about an algorithm for getting dressed in the morning. What if you put on your coat before your jumper? Your jumper would be on top of your coat and that would be silly! When you write an algorithm the order of the instructions is very important.
 
 If you want to contribute, please read the [contribution guidelines](https://github.com/gaerae/awesome-algorithms/blob/master/contributing.md).
 
@@ -14,57 +16,56 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [Books](#books)
 - [Articles](#articles)
 - [Competitions](#competitions)
-- [Tools](#tools)
 - [Miscellaneous](#miscellaneous)
 
 ## Courses
 #### Introductory
-- [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - English / Khan Academy.
-- [Fundamentals of Algorithms](http://www.geeksforgeeks.org/fundamentals-of-algorithms) - English / Geeks for Geeks.
+- [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Khan Academy.
+- [Fundamentals of Algorithms](http://www.geeksforgeeks.org/fundamentals-of-algorithms) - Geeks for Geeks.
 - [Algorithm course for smart programming](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C) - Korean / Inflearn.
 
 #### Intermediate
-- [Algorithms and Data Structures](https://www.class-central.com/subject/algorithms-and-data-structures) - English / Class Central.
-- [Algorithms](https://www.edx.org/course/algorithms) - English / edX(IITBombay).
-- [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - English / Udacity.
-- [Design and Analysis of Algorithms, 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015) - English / MIT OCW.
-- [Introduction to Algorithms, 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011) - English / MIT OCW.
-- [Classes and Teaching by Erik Demaine](http://erikdemaine.org/classes) - English / MIT(Lecture notes).
-- [Efficient Algorithms and Intractable Problems, 2001](https://people.eecs.berkeley.edu/~jrs/170/) - English / UC Berkeley(Lecture notes).
-- [Data Structures, 2014](https://people.eecs.berkeley.edu/~jrs/61b/) - English / UC Berkeley(Lecture notes).
-- [Algorithms, Etc., 2015](https://people.eecs.berkeley.edu/~jrs/61b/) - English / Illinois University(Lecture notes).
-- [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) - English / Coursera(Princeton University).
-- [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - English / Coursera(Princeton University).
+- [Algorithms and Data Structures](https://www.class-central.com/subject/algorithms-and-data-structures) - Class Central.
+- [Algorithms](https://www.edx.org/course/algorithms) - edX(IITBombay).
+- [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - Udacity.
+- [Design and Analysis of Algorithms, 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015) - MIT OCW.
+- [Introduction to Algorithms, 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011) - MIT OCW.
+- [Classes and Teaching by Erik Demaine](http://erikdemaine.org/classes) - MIT(Lecture notes).
+- [Efficient Algorithms and Intractable Problems, 2001](https://people.eecs.berkeley.edu/~jrs/170/) - UC Berkeley(Lecture notes).
+- [Data Structures, 2014](https://people.eecs.berkeley.edu/~jrs/61b/) - UC Berkeley(Lecture notes).
+- [Algorithms, Etc., 2015](https://people.eecs.berkeley.edu/~jrs/61b/) - Illinois University(Lecture notes).
+- [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) - Coursera(Princeton University).
+- [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Coursera(Princeton University).
 
 #### Advanced
-- [Data Structures and Algorithms](http://online-learning.harvard.edu/course/data-structures-and-algorithms) - Paid Content. / English / Harvard University.
-- [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) - Paid Content. / English / Coursera(Stanford University).
+- [Data Structures and Algorithms](http://online-learning.harvard.edu/course/data-structures-and-algorithms) - Paid Content. / Harvard University.
+- [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) - Paid Content. / Coursera(Stanford University).
 
 ## Competitive programming
-- [HackerRank](https://www.hackerrank.com/domains/algorithms) - English.
-- [Codility](https://app.codility.com/programmers) - English.
-- [TopCoder](https://www.topcoder.com) - English.
-- [CodeWars](http://www.codewars.com) - English.
-- [CodeChef](https://www.codechef.com) - English.
+- [HackerRank](https://www.hackerrank.com/domains/algorithms)
+- [Codility](https://app.codility.com/programmers)
+- [TopCoder](https://www.topcoder.com)
+- [CodeWars](http://www.codewars.com)
+- [CodeChef](https://www.codechef.com)
 - [Codeforces](http://codeforces.com) - English, Romanian, Russian.
-- [UVA](https://uva.onlinejudge.org) - English.
-- [A2 Online Judge](https://a2oj.com) - English.
-- [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu) - English.
+- [UVA](https://uva.onlinejudge.org)
+- [A2 Online Judge](https://a2oj.com)
+- [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu)
 - [CS Academy](https://csacademy.com) - English, Russian, Arabic.
-- [CoderByte](https://coderbyte.com/course/learn-data-structures-and-algorithms) - English.
-- [HackerEarth](https://www.hackerearth.com) - English.
+- [CoderByte](https://coderbyte.com/course/learn-data-structures-and-algorithms)
+- [HackerEarth](https://www.hackerearth.com)
 - [Infoarena](http://www.infoarena.ro) - Romanian.
-- [Kattis](https://open.kattis.com) - English.
-- [Learneroo Algorithms Tutorials](https://www.learneroo.com/subjects/8) - English.
+- [Kattis](https://open.kattis.com)
+- [Learneroo Algorithms Tutorials](https://www.learneroo.com/subjects/8)
 - [LeetCode](https://leetcode.com/problemset/algorithms) - English, Chinese.
-- [Rosalind](http://rosalind.info/problems/locations) - English.
-- [ShareCode](https://sharecode.io) - English.
-- [Snakify](https://snakify.org) - English.
-- [Sphere Online Judge (SPOJ)](http://www.spoj.com) - English.
+- [Rosalind](http://rosalind.info/problems/locations)
+- [ShareCode](https://sharecode.io)
+- [Snakify](https://snakify.org)
+- [Sphere Online Judge (SPOJ)](http://www.spoj.com)
 - [URI](https://www.urionlinejudge.com.br) - English, Spanish, Brazilian Portuguese.
 - [PKU JudgeOnline](http://poj.org) - English, Chinese.
 - [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge) - English, Japanese.
-- [Project Euler](https://projecteuler.net) - English.
+- [Project Euler](https://projecteuler.net)
 - [Project Euler @kr](http://euler.synap.co.kr) - Korean.
 - [Baekjoon](https://www.acmicpc.net) - Korean.
 - [Algospot](https://algospot.com) - Korean.
@@ -78,18 +79,22 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [SW Expert Academy](https://www.swexpertacademy.com) - Korean.
 
 ## Visualizations
-- [Algorithm Visualizer](http://algo-visualizer.jasonpark.me) - English.
-- [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - English.
+- [Algorithm Visualizer](http://algo-visualizer.jasonpark.me)
+- [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/)
 - [VisuAlgo](https://visualgo.net) - English, Korean, Chinese, Japanese.
-- [Algomation](http://www.algomation.com) - English.
-- [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - English.
-- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - English.
-- [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms) - English.
-- [SORTING](http://sorting.at) - English.
-- [String Matching Visualization](http://whocouldthat.be/visualizing-string-matching) - English.
-- [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - English.
-- [Algorithm Wiki by Will Thimbleby](http://will.thimbleby.net/algorithms) - English.
-- [TensorFlow Playground](http://playground.tensorflow.org) - English.
+- [Algomation](http://www.algomation.com)
+- [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
+- [SORTING](http://sorting.at)
+- [String Matching Visualization](http://whocouldthat.be/visualizing-string-matching)
+- [Path Finding](https://qiao.github.io/PathFinding.js/visual/)
+- [Algorithm Wiki by Will Thimbleby](http://will.thimbleby.net/algorithms)
+- [TensorFlow Playground](http://playground.tensorflow.org)
+- [Tangle](https://github.com/enjalot/algovis) - JavaScript Programming Language.
+- [Vamonos](http://rosulek.github.io/vamonos) - JavaScript Programming Language.
+- [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting) - C ++ Programming Language.
+- [GeneaQuilts](http://www.aviz.fr/geneaquilts) - Java Programming Language.
 
 ## Interviews
 - [Interview Cake](https://www.interviewcake.com)
@@ -110,9 +115,9 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 
 ## Books
 - [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY)
-- [Data Structures and Algorithms](https://people.mpi-inf.mpg.de/~mehlhorn/Toolbox.html) - Free and Paid Content.
+- [Data Structures and Algorithms](https://people.mpi-inf.mpg.de/~mehlhorn/Toolbox.html)
 - [Korea Olympiad in Informatics](http://www.digitalculture.or.kr/koi/StudyBook.do)
-- [Thinking critically about and researching algorithms](http://futuredata.stanford.edu/classes/cs345s/handouts/kitchin.pdf) - PDF Content.
+- [Thinking critically about and researching algorithms](http://futuredata.stanford.edu/classes/cs345s/handouts/kitchin.pdf)
 - [CRACKING the CODING INTERVIEW](http://www.crackingthecodinginterview.com) - [GitHub](https://github.com/careercup/CtCI-6th-Edition), [Quora](https://www.quora.com/profile/Gayle-Laakmann-McDowell).
 - [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html)
 - [Algorithms](http://algs4.cs.princeton.edu/home/)
@@ -121,9 +126,9 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [Algorithmic Problem Solving Strategies](http://book.algospot.com) - Korean.
 
 ## Articles
-- [stoimen's web log](http://www.stoimen.com/category/algorithms) - English.
-- [What are the best and efficient ways to learn algorithms for beginners?](https://www.quora.com/What-are-the-best-and-efficient-ways-to-learn-algorithms-for-beginners) - English.
-- [What are the best books on algorithms and data structures?](https://www.quora.com/What-are-the-best-books-on-algorithms-and-data-structures) - English.
+- [stoimen's web log](http://www.stoimen.com/category/algorithms)
+- [What are the best and efficient ways to learn algorithms for beginners?](https://www.quora.com/What-are-the-best-and-efficient-ways-to-learn-algorithms-for-beginners)
+- [What are the best books on algorithms and data structures?](https://www.quora.com/What-are-the-best-books-on-algorithms-and-data-structures)
 - [Study data for algorithm](http://d2.naver.com/news/4850628) - Korean.
 
 ## Competitions
@@ -132,22 +137,16 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [Google #Hash Code](https://hashcode.withgoogle.com) - Students in Africa, Europe, and the Middle East looking to work as a team on real Google problems.
 - [Google Summer of Code](https://summerofcode.withgoogle.com) - A global program focused on introducing students to open source software development. Students work on a 3 month programming project with an open source organization during their break from university.
 
-## Tools
-- [Tangle](https://github.com/enjalot/algovis) - JavaScript Programming Language.
-- [Vamonos](http://rosulek.github.io/vamonos) - JavaScript Programming Language.
-- [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting) - C ++ Programming Language.
-- [GeneaQuilts](http://www.aviz.fr/geneaquilts) - Java Programming Language.
-
 ## Miscellaneous
-- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme) - English.
-- [MIT OpenCourseWare](https://www.youtube.com/user/MIT/playlists) - English.
+- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
+- [MIT OpenCourseWare](https://www.youtube.com/user/MIT/playlists)
 - [OEDb(Open Education Databases): Algorithm](http://oedb.org/open/search-results/?search-term=algorithm)
-- [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) - English.
-- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - English.
-- [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - English / The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
-- [Code.org](https://code.org) - English / Anybody can learn.
-- [CheckiO](https://checkio.org) - English / Online game for Python and JavaScript coders.
-- [HUST Online Judge System](https://github.com/freefcw/hustoj-neo) - English / Online Judge is a web application.
+- [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
+- [Code.org](https://code.org) - Anybody can learn.
+- [CheckiO](https://checkio.org) - Online game for Python and JavaScript coders.
+- [HUST Online Judge System](https://github.com/freefcw/hustoj-neo) - Online Judge is a web application.
 - [Tech stack for Baekjoon online judge](https://goo.gl/qwgBAp) - Korean / How to choose a technology stack for judge?
 
 ## License
