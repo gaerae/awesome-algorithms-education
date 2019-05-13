@@ -1,4 +1,4 @@
-# Awesome Algorithms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Algorithms Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 알고리즘은 문제를 해결하기 위해 따라야 할 규칙의 목록입니다.
 
 알고리즘은 올바른 순서대로 있어야 합니다. 아침에 옷을 입기 위한 일도 알고리즘입니다. 외투를 입고 티셔츠를 위에 입는 다면 어떨까요? 알고리즘을 작성할 때 순서가 매우 중요합니다.
