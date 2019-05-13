@@ -1,4 +1,4 @@
-# Awesome Algorithms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Algorithms Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 An algorithm is a list of rules to follow in order to solve a problem.
 
 Algorithms need to have their steps in the right order. Think about an algorithm for getting dressed in the morning. What if you put on your coat before your jumper? Your jumper would be on top of your coat and that would be silly! When you write an algorithm the order of the instructions is very important.
