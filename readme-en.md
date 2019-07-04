@@ -98,6 +98,7 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 
 ## Interviews
 - [Interview Cake](https://www.interviewcake.com)
+- [InterviewBit](https://www.interviewbit.com)
 - [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview)
 - [Software Engineering technical interviews](https://github.com/kdn251/interviews)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
