@@ -132,9 +132,9 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [Study data for algorithm](http://d2.naver.com/news/4850628) - Korean.
 
 ## Competitions
-- [Google Code Jam](https://code.google.com/codejam) - Google’s largest coding competition, calls on programmers around the world to put their skills to the test by solving multiple rounds of algorithmic puzzles.
-- [Google Code Jam Kickstart](https://code.google.com/codejam/kickstart) - University students looking to develop their coding skills and potentially pursue a Google career.
-- [Google #Hash Code](https://hashcode.withgoogle.com) - Students in Africa, Europe, and the Middle East looking to work as a team on real Google problems.
+- [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam) - Google’s largest coding competition, calls on programmers around the world to put their skills to the test by solving multiple rounds of algorithmic puzzles.
+- [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) - University students looking to develop their coding skills and potentially pursue a Google career.
+- [Google Hash Code](https://codingcompetitions.withgoogle.com/hashcode) - Students in Africa, Europe, and the Middle East looking to work as a team on real Google problems.
 - [Google Summer of Code](https://summerofcode.withgoogle.com) - A global program focused on introducing students to open source software development. Students work on a 3 month programming project with an open source organization during their break from university.
 
 ## Miscellaneous
