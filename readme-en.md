@@ -102,6 +102,7 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [Software Engineering technical interviews](https://github.com/kdn251/interviews)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [Interactive Python coding interview challenges](https://github.com/donnemartin/interactive-coding-challenges)
+- [InterviewBit](https://www.interviewbit.com/)
 
 ## Videos
 - [How algorithms shape our world](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world) - Kevin Slavin.
