@@ -48,6 +48,7 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [CodeWars](http://www.codewars.com)
 - [CodeChef](https://www.codechef.com)
 - [Codeforces](http://codeforces.com) - English, Romanian, Russian.
+- [Coding Mystery](https://codingmystery.com)
 - [UVA](https://uva.onlinejudge.org)
 - [A2 Online Judge](https://a2oj.com)
 - [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu)
