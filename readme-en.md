@@ -129,6 +129,7 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [stoimen's web log](http://www.stoimen.com/category/algorithms)
 - [What are the best and efficient ways to learn algorithms for beginners?](https://www.quora.com/What-are-the-best-and-efficient-ways-to-learn-algorithms-for-beginners)
 - [What are the best books on algorithms and data structures?](https://www.quora.com/What-are-the-best-books-on-algorithms-and-data-structures)
+- [Data Structures and Algorithms](https://www.scaler.com/topics/data-structures/)
 - [Study data for algorithm](http://d2.naver.com/news/4850628) - Korean.
 
 ## Competitions
