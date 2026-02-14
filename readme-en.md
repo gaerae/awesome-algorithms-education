@@ -148,6 +148,7 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [CheckiO](https://checkio.org) - Online game for Python and JavaScript coders.
 - [HUST Online Judge System](https://github.com/freefcw/hustoj-neo) - Online Judge is a web application.
 - [Tech stack for Baekjoon online judge](https://goo.gl/qwgBAp) - Korean / How to choose a technology stack for judge?
+- [pyPantry](https://github.com/sattyamjjain/pyPantry) - Python library with 400+ algorithm and data structure implementations for learning and reference.
 
 ## License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
