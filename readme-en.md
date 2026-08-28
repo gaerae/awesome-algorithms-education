@@ -95,6 +95,7 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [Vamonos](http://rosulek.github.io/vamonos) - JavaScript Programming Language.
 - [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting) - C ++ Programming Language.
 - [GeneaQuilts](http://www.aviz.fr/geneaquilts) - Java Programming Language.
+- [SolveLogs](https://solvelogs.com) - Python, C++, Java Programming Languages.
 
 ## Interviews
 - [Interview Cake](https://www.interviewcake.com)

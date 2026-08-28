@@ -108,6 +108,7 @@
 - [Vamonos](http://rosulek.github.io/vamonos) - JavaScript 프로그래밍 언어.
 - [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting) - C ++ 프로그래밍 언어.
 - [GeneaQuilts](http://www.aviz.fr/geneaquilts) - Java 프로그래밍 언어.
+- [SolveLogs](https://solvelogs.com) - Python, C++, Java 프로그래밍 언어.
 
 ## Interviews
 > 인터뷰
