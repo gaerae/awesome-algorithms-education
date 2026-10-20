@@ -82,11 +82,11 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [Algorithm Visualizer](http://algo-visualizer.jasonpark.me)
 - [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/)
 - [VisuAlgo](https://visualgo.net) - English, Korean, Chinese, Japanese.
-- [Algomation](http://www.algomation.com)
+- [Coddy Visualize](https://coddy.tech/visualize)
 - [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
-- [SORTING](http://sorting.at)
+- [Sorting visualizations](https://coddy.tech/visualize/sorting)
 - [String Matching Visualization](http://whocouldthat.be/visualizing-string-matching)
 - [Path Finding](https://qiao.github.io/PathFinding.js/visual/)
 - [Algorithm Wiki by Will Thimbleby](http://will.thimbleby.net/algorithms)

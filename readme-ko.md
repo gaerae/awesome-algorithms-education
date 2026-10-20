@@ -95,11 +95,11 @@
 - [Algorithm Visualizer](http://algo-visualizer.jasonpark.me)
 - [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/)
 - [VisuAlgo](https://visualgo.net) - 영어, 한국어, 중국어, 일본어
-- [Algomation](http://www.algomation.com)
+- [Coddy Visualize](https://coddy.tech/visualize/ko)
 - [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
-- [SORTING](http://sorting.at) - English
+- [정렬 알고리즘 시각화](https://coddy.tech/visualize/ko/sorting)
 - [String Matching Visualization](http://whocouldthat.be/visualizing-string-matching)
 - [Path Finding](https://qiao.github.io/PathFinding.js/visual/)
 - [Algorithm Wiki from Will Thimbleby](http://will.thimbleby.net/algorithms)
