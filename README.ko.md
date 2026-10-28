@@ -27,7 +27,6 @@
 
 - [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Khan Academy / Thomas Cormen이 공동 집필한 무료 단원으로, 정렬·재귀·그래프를 글과 JavaScript 과제로 익힌다.
 - [DSA Tutorial](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) - Geeks for Geeks / 배열·정렬부터 그래프·DP·세그먼트 트리까지 이어지는 무료 글과 연습 문제 로드맵.
-- [Hello Algo](https://www.hello-algo.com/en/) - 애니메이션으로 자료구조와 알고리즘을 설명하는 오픈소스 입문서. 다양한 언어의 코드 제공.
 - [영리한 프로그래밍을 위한 알고리즘 강좌](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C) - 한국어 / Inflearn / 부경대 권오흠 교수의 무료 55강 강의로 순환, 정렬, 트리, 해싱, 그래프, 동적 계획법을 다룬다.
 
 #### Intermediate
@@ -57,8 +56,8 @@
 
 - [HackerRank](https://www.hackerrank.com/domains/algorithms) - 워밍업부터 동적 계획법까지 주제별로 묶인 알고리즘 연습 문제.
 - [Codility](https://app.codility.com/programmers) - 시간 복잡도, 누적 합, 정렬 등을 다루는 무료 강의와 연습 문제.
-- [TopCoder](https://www.topcoder.com) - 오랜 역사의 Single Round Match(SRM) 대회와 문제 아카이브, 에디토리얼 제공.
-- [CodeWars](https://www.codewars.com) - 55개 이상의 언어로 풀 수 있는 커뮤니티 제작 문제(kata).
+- [Topcoder](https://www.topcoder.com) - 오랜 역사의 Single Round Match(SRM) 대회와 문제 아카이브, 에디토리얼 제공.
+- [Codewars](https://www.codewars.com) - 55개 이상의 언어로 풀 수 있는 커뮤니티 제작 문제(kata).
 - [CodeChef](https://www.codechef.com) - 연습 문제와 정기 레이팅 대회.
 - [Codeforces](https://codeforces.com) - 영어, 러시아어 / 거의 매주 열리는 레이팅 라운드와 Educational 라운드, 방대한 문제 아카이브와 커뮤니티 블로그.
 - [AtCoder](https://atcoder.jp) - 영어, 일본어 / 매주 열리는 Beginner Contest와 Regular, Grand, Heuristic 대회를 여는 일본 AtCoder의 플랫폼.
@@ -67,7 +66,7 @@
 - [ICPC Problem Archive](https://icpc.kattis.com) - Kattis / 최근 ICPC 월드 파이널 기출 문제를 난이도별로 모아 Kattis에서 채점한다.
 - [CS Academy](https://csacademy.com) - 영어, 러시아어, 아랍어 / 동적 배점 라운드를 열며 그래프 에디터, 기하 도구 같은 부가 도구를 제공한다.
 - [CSES Problem Set](https://cses.fi/problemset/) - 입문 문제부터 고급 기법까지 주제별로 묶인 문제 모음.
-- [CoderByte](https://coderbyte.com) - 영상 풀이가 딸린 코딩 문제. 현재는 채용 평가 플랫폼이 주력.
+- [Coderbyte](https://coderbyte.com) - 영상 풀이가 딸린 코딩 문제. 현재는 채용 평가 플랫폼이 주력.
 - [HackerEarth](https://www.hackerearth.com) - 기초 프로그래밍, 자료구조, 알고리즘, 수학 연습 문제와 채용 평가 제공.
 - [Infoarena](https://www.infoarena.ro) - 루마니아어 / 본 아카이브와 교육·월간·ACM 아카이브, 대회와 레이팅을 갖춘 커뮤니티 저지.
 - [Kattis](https://open.kattis.com) - 난이도 점수가 매겨진 수천 개의 문제 아카이브.
@@ -77,9 +76,9 @@
 - [ShareCode](https://sharecode.io) - 과거 대회 문제를 모아 둔 읽기 전용 아카이브 온라인 저지.
 - [Snakify](https://snakify.org) - 100개 이상의 연습 문제가 있는 초보자용 Python 3 강좌.
 - [Sphere Online Judge (SPOJ)](https://www.spoj.com) - 다양한 프로그래밍 언어를 지원하는 대규모 고전 문제 아카이브.
-- [beecrowd](https://judge.beecrowd.com) - 영어, 스페인어, 브라질 포르투갈어. 구 URI Online Judge.
+- [beecrowd](https://judge.beecrowd.com) - 영어, 스페인어, 브라질 포르투갈어 / 대회와 방대한 문제 아카이브를 갖춘 저지로, 구 URI Online Judge.
 - [PKU JudgeOnline](http://poj.org) - 영어, 중국어 / 베이징대학교가 운영하는 저지로 각지 대회에서 모은 방대한 문제와 월례 대회를 제공한다.
-- [AIZU ONLINE JUDGE](https://onlinejudge.u-aizu.ac.jp) - 영어, 일본어 / 아이즈대학교가 운영하는 무료 저지로 ICPC, JOI, PCK 기출과 입문 코스 등 2,000문제 이상을 제공한다.
+- [Aizu Online Judge](https://onlinejudge.u-aizu.ac.jp) - 영어, 일본어 / 아이즈대학교가 운영하는 무료 저지로 ICPC, JOI, PCK 기출과 입문 코스 등 2,000문제 이상을 제공한다.
 - [Project Euler](https://projecteuler.net) - 수학적 통찰과 프로그래밍이 모두 필요한 수학 문제 시리즈.
 - [Advent of Code](https://adventofcode.com) - 매년 12월에 하루 한 문제씩 공개되는 퍼즐 캘린더.
 - [Project Euler @kr](https://euler.synap.co.kr) - 한국어 / Project Euler 문제의 한국어 번역.
@@ -108,7 +107,7 @@
 - [Python Tutor](https://pythontutor.com) - Python, JavaScript, C, C++, Java 코드의 실행 과정을 단계별로 시각화.
 - [Algorithm Wiki from Will Thimbleby](https://thimbleby.net/algorithms/) - 실제 JavaScript 구현을 실행해 시각화하는 인터랙티브 위키.
 - [TensorFlow Playground](http://playground.tensorflow.org) - 브라우저에서 작은 신경망을 직접 조작해 보는 데모.
-- [Tangle](https://github.com/enjalot/algovis) - JavaScript 프로그래밍 언어 / enjalot이 정리한 알고리즘 시각화 프로젝트·도구 모음으로 Tailspin, Vamonos, Tangle 등을 담고 있다.
+- [Algovis](https://github.com/enjalot/algovis) - enjalot이 정리한 알고리즘 시각화 프로젝트·도구 모음으로 Tailspin, Vamonos, Tangle 등을 담고 있다.
 - [Vamonos](http://rosulek.github.io/vamonos) - JavaScript 프로그래밍 언어 / 오리건주립대에서 만든 라이브러리로 배열·그래프 알고리즘을 중단점과 되감기로 단계별 시각화한다.
 - [The Sound of Sorting](https://panthema.net/2013/sound-of-sorting/) - C ++ 프로그래밍 언어 / Timo Bingmann의 데모로 수십 가지 정렬 알고리즘의 비교 연산마다 막대를 그리고 소리를 낸다.
 
@@ -145,8 +144,8 @@
 - [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/) - 무료 / University of Illinois의 교재와 강의 노트.
 - [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) - 무료 / Antti Laaksonen / 정렬과 동적 계획법부터 그래프, 정수론, 기하까지 경쟁 프로그래밍을 약 300쪽으로 정리한 PDF.
 - [Open Data Structures](https://opendatastructures.org) - 무료 / Pat Morin의 오픈 교과서로 리스트, 해시 테이블, 탐색 트리, 힙, 그래프를 Java, C++, 의사코드 판으로 제공한다.
-- [Hello Algo](https://github.com/krahets/hello-algo) - 무료 / 영어, 중국어, 일본어 등 / krahets가 만든 입문서로 애니메이션 도해와 14개 언어의 실행 가능한 코드를 제공한다.
-- [CRACKING the CODING INTERVIEW](https://www.crackingthecodinginterview.com) - [GitHub](https://github.com/careercup/CtCI-6th-Edition), [Quora](https://www.quora.com/profile/Gayle-Laakmann-McDowell).
+- [Hello Algo](https://www.hello-algo.com/en/) - 무료 / 영어, 중국어, 일본어 등 / krahets가 만든 입문서로 애니메이션 도해와 14개 언어의 실행 가능한 코드를 제공한다.
+- [Cracking the Coding Interview](https://www.crackingthecodinginterview.com) - Gayle Laakmann McDowell의 면접 대비서로 189개 문제를 다룬다. 풀이는 [GitHub](https://github.com/careercup/CtCI-6th-Edition), 저자는 [Quora](https://www.quora.com/profile/Gayle-Laakmann-McDowell)에서 볼 수 있다.
 - [Algorithm Design](https://www.pearson.com/en-us/subject-catalog/p/Kleinberg-Algorithm-Design/P200000003259) - Jon Kleinberg와 Éva Tardos의 교재. Pearson 출판.
 - [Algorithms](https://algs4.cs.princeton.edu/home/) - Robert Sedgewick과 Kevin Wayne의 4판. 책 사이트에서 코드와 연습 문제 제공.
 - [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) - Cormen, Leiserson, Rivest, Stein의 CLRS 교재 4판.
@@ -161,7 +160,7 @@
 - [stoimen's web log](http://www.stoimen.com/category/algorithms) - 고전 알고리즘과 자료구조를 다룬 블로그 연재.
 - [What are the best and efficient ways to learn algorithms for beginners?](https://www.quora.com/What-are-the-best-and-efficient-ways-to-learn-algorithms-for-beginners) - Quora / 기초부터 다진 뒤 교재 학습과 온라인 저지에서의 꾸준한 연습을 권하는 커뮤니티 답변 모음.
 - [What are the best books on algorithms and data structures?](https://www.quora.com/What-are-the-best-books-on-algorithms-and-data-structures) - Quora / CLRS를 가장 많이 추천하고 Sedgewick, Skiena, Manber의 책을 대안으로 드는 커뮤니티 답변 모음.
-- [NEXTERS 알고리즘 스터디 자료 외](https://d2.naver.com/news/4850628) - 한국어 / NAVER D2에 공개된 NEXTERS 동아리의 알고리즘 스터디 자료.
+- [NEXTERS 알고리즘 스터디 자료 외](https://d2.naver.com/news/4850628) - 한국어 / NEXTERS 동아리의 알고리즘 스터디 자료를 NAVER D2에 공개한 글.
 
 ## Competitions
 > 대회
@@ -172,7 +171,7 @@
 - [AtCoder Contests](https://atcoder.jp/contests/) - 초보자부터 고수까지 참가할 수 있는 주간 레이팅 대회입니다.
 - [Codeforces Contests](https://codeforces.com/contests) - 가장 활발하게 열리는 레이팅 대회입니다.
 - [Google Coding Competitions Archive](https://github.com/google/coding-competitions-archive) - 2023년에 종료된 Code Jam, Kick Start, Hash Code의 문제와 풀이를 모은 공식 아카이브입니다.
-- [Google Summer of Code](https://summerofcode.withgoogle.com) - 오픈 소스 소프트웨어 개발을 위해 학생들을 소개하는 데 초점을 맞춘 글로벌 프로그램이다. 학생들은 대학을 졸업하는 동안 열린 소스 기관과 함께 3개월 동안 프로그래밍 프로젝트를 한다.
+- [Google Summer of Code](https://summerofcode.withgoogle.com) - 학생을 오픈 소스 단체와 연결해 여름 동안 유급 코딩 프로젝트를 진행하는 연례 프로그램.
 - [KOI](https://koi.or.kr) - 한국어 / 한국정보올림피아드 / 초·중·고등학생 대상 연례 대회로 온라인 1차 대회와 수상자가 진출하는 2차 대회로 치러진다.
 - [UCPC](https://ucpc.me) - 한국어 / 전국 대학생 프로그래밍 대회 동아리 연합 / 온라인 예선과 오프라인 본선으로 치러지는 연례 3인 팀 대회.
 
@@ -183,8 +182,8 @@
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT/playlists) - MIT 강의 전체를 담은 YouTube 재생목록.
 - [Awesome Data Science](https://github.com/academic/awesome-datascience) - 데이터 과학 학습 자료를 엄선한 목록.
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - 언어별 머신러닝 프레임워크, 라이브러리, 소프트웨어를 엄선한 목록.
-- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - 같은 문제의 해결책을 다양한 언어로 해결책을 제시하는 곳입니다. 언어를 비교하는 데 좋습니다.
+- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - 같은 과제의 해법을 최대한 많은 프로그래밍 언어로 제시해 언어 간 차이를 비교할 수 있는 곳.
 - [Code.org](https://code.org) - 초·중·고 무료 컴퓨터과학 교육과정과 Hour of Code 캠페인을 운영하는 비영리 단체.
 - [CheckiO](https://checkio.org) - Python 혹은 JavaScript를 온라인 게임을 통해 학습할 수 있습니다.
 - [HUST Online Judge System](https://github.com/hustoj/hustoj-neo) - HUST 온라인 저지를 PHP Laravel로 다시 만든 버전으로, 제출 코드를 RabbitMQ로 별도 채점 서버에 보낸다.
-- [백준 온라인 저지는 어떻게 만들어졌을까?](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C/) - 한국어.
+- [백준 온라인 저지는 어떻게 만들어졌을까?](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C/) - 한국어 / 스타트링크가 백준 온라인 저지를 어떤 기술로 어떻게 만들었는지 정리한 글.
