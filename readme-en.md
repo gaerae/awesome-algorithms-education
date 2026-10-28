@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="media/logo-dark.svg">
+  <img src="media/logo.svg" alt="Algorithms Education" width="420">
+</picture>
+
 # Awesome Algorithms Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of courses, online judges, visualizations, books and competitions for learning and practicing algorithms.

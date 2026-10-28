@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="media/logo-dark.svg">
+  <img src="media/logo.svg" alt="Algorithms Education" width="420">
+</picture>
+
 # Awesome Algorithms Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > 알고리즘을 배우고 연습하기 위한 강좌, 온라인 저지, 시각화 도구, 도서, 대회를 엄선한 목록입니다.
