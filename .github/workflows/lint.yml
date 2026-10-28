@@ -22,6 +22,8 @@ jobs:
         with:
           node-version: 20
       - run: npx --yes awesome-lint
+      - name: Lint the Korean README with the same rules
+        run: npx --yes awesome-lint README.ko.md
 
   links:
     name: Link check

@@ -62,7 +62,6 @@
 - [Codeforces](https://codeforces.com) - 영어, 러시아어 / 거의 매주 열리는 레이팅 라운드와 Educational 라운드, 방대한 문제 아카이브와 커뮤니티 블로그.
 - [AtCoder](https://atcoder.jp) - 영어, 일본어 / 매주 열리는 Beginner Contest와 Regular, Grand, Heuristic 대회를 여는 일본 AtCoder의 플랫폼.
 - [UVa Online Judge](https://onlinejudge.org) - 고전 문제 아카이브. 진행 상황을 추적하는 uHunt와 ICPC Live Archive 포함.
-- [A2 Online Judge](https://a2oj.netlify.app) - 서비스가 종료된 a2oj.com 문제 사다리의 보존 미러.
 - [ICPC Problem Archive](https://icpc.kattis.com) - Kattis / 최근 ICPC 월드 파이널 기출 문제를 난이도별로 모아 Kattis에서 채점한다.
 - [CS Academy](https://csacademy.com) - 영어, 러시아어, 아랍어 / 동적 배점 라운드를 열며 그래프 에디터, 기하 도구 같은 부가 도구를 제공한다.
 - [CSES Problem Set](https://cses.fi/problemset/) - 입문 문제부터 고급 기법까지 주제별로 묶인 문제 모음.
@@ -73,7 +72,6 @@
 - [Learneroo Algorithms Tutorials](https://www.learneroo.com/subjects/8) - 문제를 풀면서 알고리즘과 자료구조를 배우는 튜토리얼.
 - [LeetCode](https://leetcode.com/problemset/) - 영어, 중국어 / 주제와 난이도로 태그된 면접 대비형 문제 은행으로 매주·격주 대회를 연다.
 - [Rosalind](https://rosalind.info/problems/locations/) - 생물정보학과 프로그래밍 문제. 초보자용 Python Village부터 시작.
-- [ShareCode](https://sharecode.io) - 과거 대회 문제를 모아 둔 읽기 전용 아카이브 온라인 저지.
 - [Snakify](https://snakify.org) - 100개 이상의 연습 문제가 있는 초보자용 Python 3 강좌.
 - [Sphere Online Judge (SPOJ)](https://www.spoj.com) - 다양한 프로그래밍 언어를 지원하는 대규모 고전 문제 아카이브.
 - [beecrowd](https://judge.beecrowd.com) - 영어, 스페인어, 브라질 포르투갈어 / 대회와 방대한 문제 아카이브를 갖춘 저지로, 구 URI Online Judge.

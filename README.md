@@ -52,7 +52,6 @@ If you want to contribute, please read the [contribution guidelines](CONTRIBUTIN
 - [Codeforces](https://codeforces.com) - English, Russian / Rated rounds about once a week plus Educational rounds, a large problem archive and community blogs.
 - [AtCoder](https://atcoder.jp) - English, Japanese / Weekly Beginner Contests plus Regular, Grand and Heuristic contests, run by AtCoder Inc. in Japan.
 - [UVa Online Judge](https://onlinejudge.org) - Classic problem archive with the uHunt progress tracker and the ICPC Live Archive.
-- [A2 Online Judge](https://a2oj.netlify.app) - Archived mirror of the original a2oj.com ladders.
 - [ICPC Problem Archive](https://icpc.kattis.com) - Kattis / Problems from recent ICPC World Finals, grouped by difficulty and judged on Kattis.
 - [CS Academy](https://csacademy.com) - English, Russian, Arabic / Timed rounds with dynamic scoring plus built-in tools such as a graph editor and geometry tool.
 - [CSES Problem Set](https://cses.fi/problemset/) - Problem collection grouped by topic, from introductory problems to advanced techniques.
@@ -63,7 +62,6 @@ If you want to contribute, please read the [contribution guidelines](CONTRIBUTIN
 - [Learneroo Algorithms Tutorials](https://www.learneroo.com/subjects/8) - Tutorials that teach algorithms and data structures by solving challenges.
 - [LeetCode](https://leetcode.com/problemset/) - English, Chinese / Interview-style problem bank tagged by topic and difficulty, with weekly and biweekly contests.
 - [Rosalind](https://rosalind.info/problems/locations/) - Bioinformatics and programming problems, starting with a Python Village for beginners.
-- [ShareCode](https://sharecode.io) - Archived, read-only online judge with problems from past contests.
 - [Snakify](https://snakify.org) - Python 3 course for beginners with over 100 exercises.
 - [Sphere Online Judge (SPOJ)](https://www.spoj.com) - Large archive of classical problems with support for many programming languages.
 - [beecrowd](https://judge.beecrowd.com) - English, Spanish, Brazilian Portuguese / Large problem archive with contests, formerly URI Online Judge.
