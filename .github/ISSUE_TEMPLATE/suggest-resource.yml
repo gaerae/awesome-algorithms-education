@@ -1,0 +1,35 @@
+name: Suggest a resource
+description: Propose a course, judge, book, video or tool for the list
+title: "Suggest: "
+labels: [suggestion]
+body:
+  - type: input
+    id: resource
+    attributes:
+      label: Resource
+      description: Name and URL.
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Courses
+        - Competitive programming
+        - Visualizations
+        - Interviews
+        - Videos
+        - Books
+        - Articles
+        - Competitions
+        - Miscellaneous
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it awesome?
+      description: One or two lines. Free or paid? Which languages? What makes it better than what is already listed?
+    validations:
+      required: true

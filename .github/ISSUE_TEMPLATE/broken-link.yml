@@ -1,0 +1,30 @@
+name: Broken or outdated link
+description: Report a link that no longer works or points to the wrong place
+title: "Broken link: "
+labels: [broken-link]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry
+      description: Entry name and the section it is in.
+      placeholder: "Dovelet (Competitive programming)"
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What is wrong?
+      options:
+        - 404 or connection error
+        - Redirects to an unrelated site
+        - Service shut down
+        - Moved to a new address
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Suggested replacement (optional)
+      description: New URL, or "remove" if the resource is gone.
