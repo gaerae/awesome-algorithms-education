@@ -2,7 +2,7 @@ name: Lint
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   pull_request:
   schedule:
     # Check links once a month so dead resources are caught even without new commits.
