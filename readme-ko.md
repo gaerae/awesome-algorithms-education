@@ -1,9 +1,10 @@
 # Awesome Algorithms Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-알고리즘은 문제를 해결하기 위해 따라야 할 규칙의 목록입니다.
 
-알고리즘은 올바른 순서대로 있어야 합니다. 아침에 옷을 입기 위한 일도 알고리즘입니다. 외투를 입고 티셔츠를 위에 입는 다면 어떨까요? 알고리즘을 작성할 때 순서가 매우 중요합니다.
+> 알고리즘을 배우고 연습하기 위한 강좌, 온라인 저지, 시각화 도구, 도서, 대회를 엄선한 목록입니다.
 
-만약 기여하고 싶다면, [기여 가이드](https://github.com/gaerae/awesome-algorithms-education/blob/master/contributing.md) 문서를 확인하세요.
+유료라고 표시한 항목 외에는 모두 무료로 읽거나 사용할 수 있으며, 한국어 자료에는 따로 표시를 두어 영어와 한국어 학습자 모두가 자신에게 맞는 자료를 찾을 수 있게 했습니다. 알고리즘 구현 코드나 대회 특화 자료는 [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)과 [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms#readme)을 참고하세요.
+
+만약 기여하고 싶다면, [기여 가이드](contributing.md) 문서를 확인하세요.
 
 언어: [English](readme-en.md) • **[😎 한국어(Korean)](readme-ko.md)**
 
@@ -41,7 +42,6 @@
 - [Classes and Teaching by Erik Demaine](https://erikdemaine.org/classes/) - MIT(Lecture notes).
 - [Efficient Algorithms and Intractable Problems, 2001](https://people.eecs.berkeley.edu/~jrs/170/) - UC Berkeley(Lecture notes).
 - [Data Structures, 2014](https://people.eecs.berkeley.edu/~jrs/61b/) - UC Berkeley(Lecture notes).
-- [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/) - University of Illinois(강의 노트와 무료 교재).
 - [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) - Coursera(Princeton University).
 - [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Coursera(Princeton University).
 - [USACO Guide](https://usaco.guide) - Bronze부터 Platinum까지 단계별로 구성된 무료 알고리즘 대회 커리큘럼.
@@ -144,7 +144,7 @@
 
 - [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY)
 - [Data Structures and Algorithms](https://people.mpi-inf.mpg.de/~mehlhorn/Toolbox.html)
-- [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/) - 무료.
+- [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/) - 무료 / University of Illinois의 교재와 강의 노트.
 - [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) - 무료 / Antti Laaksonen.
 - [Open Data Structures](https://opendatastructures.org) - 무료.
 - [Hello Algo](https://github.com/krahets/hello-algo) - 무료 / 영어, 중국어, 일본어 등.
@@ -181,7 +181,6 @@
 ## Miscellaneous
 > 도움될만한 읽을거리
 
-- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
 - [The Algorithms](https://github.com/TheAlgorithms) - 주요 언어별 알고리즘 구현을 모은 오픈소스 프로젝트.
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT/playlists)
 - [OEDb(Open Education Databases): Algorithm](https://www.oedb.org/open/search-results/?search-term=algorithm)
@@ -192,10 +191,3 @@
 - [CheckiO](https://checkio.org) - Python 혹은 JavaScript를 온라인 게임을 통해 학습할 수 있습니다.
 - [HUST Online Judge System](https://github.com/hustoj/hustoj-neo) - 온라인 저지 사이트를 만들수 있는 오픈소스 프로젝트.
 - [백준 온라인 저지는 어떻게 만들어졌을까?](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C/) - 한국어.
-
-## License
-> 라이선스
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-[gaerae](https://github.com/gaerae)는 법으로 가능한 범위 내에서 모든 저작권과 저작인접권을 포기합니다.

@@ -9,6 +9,9 @@ on:
     - cron: '0 0 1 * *'
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   awesome-lint:
     name: awesome-lint
@@ -31,9 +34,9 @@ jobs:
           args: >-
             --no-progress
             --accept 200..=299,403,429
-            --timeout 30
-            --max-retries 2
+            --timeout 45
+            --max-retries 3
             --user-agent "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124.0 Safari/537.36"
-            --exclude 'youtube\.com|youtu\.be|quora\.com|facebook\.com|leetcode\.com|codeforces\.com|projecteuler\.net|spoj\.com|poj\.org'
+            --exclude 'youtube\.com|youtu\.be|quora\.com|facebook\.com|leetcode\.com|codeforces\.com|projecteuler\.net|spoj\.com|poj\.org|topcoder\.com|algospot\.com|whocouldthat\.be'
             readme-en.md readme-ko.md contributing.md
           fail: true

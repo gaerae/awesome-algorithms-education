@@ -1,9 +1,10 @@
 # Awesome Algorithms Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-An algorithm is a list of rules to follow in order to solve a problem.
 
-Algorithms need to have their steps in the right order. Think about an algorithm for getting dressed in the morning. What if you put on your coat before your jumper? Your jumper would be on top of your coat and that would be silly! When you write an algorithm the order of the instructions is very important.
+> A curated list of courses, online judges, visualizations, books and competitions for learning and practicing algorithms.
 
-If you want to contribute, please read the [contribution guidelines](https://github.com/gaerae/awesome-algorithms-education/blob/master/contributing.md).
+Every entry is free to read or use unless marked as paid, and Korean-language resources are tagged so that both English and Korean learners can find what fits them. For implementations and contest-specific material, see [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme) and [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms#readme).
+
+If you want to contribute, please read the [contribution guidelines](contributing.md).
 
 Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md)
 
@@ -35,7 +36,6 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [Classes and Teaching by Erik Demaine](https://erikdemaine.org/classes/) - MIT(Lecture notes).
 - [Efficient Algorithms and Intractable Problems, 2001](https://people.eecs.berkeley.edu/~jrs/170/) - UC Berkeley(Lecture notes).
 - [Data Structures, 2014](https://people.eecs.berkeley.edu/~jrs/61b/) - UC Berkeley(Lecture notes).
-- [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/) - University of Illinois(Lecture notes and free textbook).
 - [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) - Coursera(Princeton University).
 - [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Coursera(Princeton University).
 - [USACO Guide](https://usaco.guide) - Free structured curriculum for competitive programming, from Bronze to Platinum.
@@ -126,7 +126,7 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 ## Books
 - [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY)
 - [Data Structures and Algorithms](https://people.mpi-inf.mpg.de/~mehlhorn/Toolbox.html)
-- [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Free.
+- [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Free textbook and lecture notes from the University of Illinois.
 - [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) - Free / Antti Laaksonen.
 - [Open Data Structures](https://opendatastructures.org) - Free.
 - [Hello Algo](https://github.com/krahets/hello-algo) - Free / English, Chinese, Japanese and more.
@@ -157,7 +157,6 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [UCPC](https://ucpc.me) - Korean / Union of Collegiate Programming Contest clubs.
 
 ## Miscellaneous
-- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
 - [The Algorithms](https://github.com/TheAlgorithms) - Open-source implementations of algorithms in every major language.
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT/playlists)
 - [OEDb(Open Education Databases): Algorithm](https://www.oedb.org/open/search-results/?search-term=algorithm)
@@ -168,8 +167,3 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [CheckiO](https://checkio.org) - Online game for Python and JavaScript coders.
 - [HUST Online Judge System](https://github.com/hustoj/hustoj-neo) - Online Judge is a web application.
 - [Tech stack for Baekjoon online judge](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C/) - Korean / How to choose a technology stack for judge?
-
-## License
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [gaerae](https://github.com/gaerae) has waived all copyright and related or neighboring rights to this work.
