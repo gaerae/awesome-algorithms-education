@@ -17,4 +17,4 @@
 
 ## Code of conduct
 
-This project follows the [Contributor Covenant](code-of-conduct.md). By participating you agree to keep interactions respectful.
+This project follows the [Contributor Covenant](CODE_OF_CONDUCT.md). By participating you agree to keep interactions respectful.

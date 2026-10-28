@@ -4,7 +4,7 @@
 
 유료라고 표시한 항목 외에는 모두 무료로 읽거나 사용할 수 있으며, 한국어 자료에는 따로 표시를 두어 영어와 한국어 학습자 모두가 자신에게 맞는 자료를 찾을 수 있게 했습니다. 알고리즘 구현 코드나 대회 특화 자료는 [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)과 [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms#readme)을 참고하세요.
 
-만약 기여하고 싶다면, [기여 가이드](contributing.md) 문서를 확인하세요.
+만약 기여하고 싶다면, [기여 가이드](CONTRIBUTING.md) 문서를 확인하세요.
 
 [English](README.md) | **한국어**
 

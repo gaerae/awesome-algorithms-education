@@ -4,7 +4,7 @@
 
 Every entry is free to read or use unless marked as paid, and Korean-language resources are tagged so that both English and Korean learners can find what fits them. For implementations and contest-specific material, see [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme) and [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms#readme).
 
-If you want to contribute, please read the [contribution guidelines](contributing.md).
+If you want to contribute, please read the [contribution guidelines](CONTRIBUTING.md).
 
 **English** | [한국어](README.ko.md)
 
