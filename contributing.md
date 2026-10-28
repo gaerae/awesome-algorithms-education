@@ -9,7 +9,7 @@
 
 ## Adding an item
 
-* Add the item to **both** `readme-en.md` and `readme-ko.md` in the same section and position, so the two lists stay in sync.
+* Add the item to **both** `README.md` and `README.ko.md` in the same section and position, so the two lists stay in sync.
 * Use the format `- [Name](https://link) - Short description.` and prefer `https://` links. End descriptions with a period.
 * Mark non-English resources with the language (for example `- Korean.`) and paid resources with `Paid Content.`
 * Do not add link-building or promotional content. Resources must be about learning or practicing algorithms and freely accessible to read, even if some features are paid.

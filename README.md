@@ -11,7 +11,7 @@ Every entry is free to read or use unless marked as paid, and Korean-language re
 
 If you want to contribute, please read the [contribution guidelines](contributing.md).
 
-Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md)
+**English** | [한국어](README.ko.md)
 
 ## Contents
 - [Courses](#courses)

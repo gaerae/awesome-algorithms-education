@@ -11,7 +11,7 @@
 
 만약 기여하고 싶다면, [기여 가이드](contributing.md) 문서를 확인하세요.
 
-언어: [English](readme-en.md) • **[😎 한국어(Korean)](readme-ko.md)**
+[English](README.md) | **한국어**
 
 ## Contents
 - [Courses](#courses) 강좌

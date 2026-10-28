@@ -6,11 +6,6 @@ Thumbs.db
 .idea/
 .vscode/
 
-# Jekyll (GitHub Pages) build output
-_site/
-.jekyll-cache/
-.jekyll-metadata
-
 # Local awesome-lint / lychee runs
 node_modules/
 .lycheecache
