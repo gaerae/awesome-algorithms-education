@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contribution guidelines
+    url: https://github.com/gaerae/awesome-algorithms-education/blob/main/contributing.md
+    about: Read this before opening a pull request.

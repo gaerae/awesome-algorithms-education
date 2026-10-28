@@ -1,0 +1,42 @@
+name: Lint
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    # Check links once a month so dead resources are caught even without new commits.
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  awesome-lint:
+    name: awesome-lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npx --yes awesome-lint
+
+  links:
+    name: Link check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links in both READMEs
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --accept 200..=299,403,429
+            --timeout 45
+            --max-retries 3
+            --user-agent "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124.0 Safari/537.36"
+            --exclude 'youtube\.com|youtu\.be|quora\.com|facebook\.com|leetcode\.com|codeforces\.com|projecteuler\.net|spoj\.com|poj\.org|topcoder\.com|algospot\.com|whocouldthat\.be'
+            readme-en.md readme-ko.md contributing.md
+          fail: true
