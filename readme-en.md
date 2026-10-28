@@ -88,11 +88,9 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - Interactive platform that visualizes algorithms from code.
 - [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Interactive DFS and BFS explanations by Workshape.io.
 - [VisuAlgo](https://visualgo.net) - English, Korean, Chinese, Japanese.
-- [Algomation](https://www.algomation.com)
 - [Algorithms Visualization](https://bost.ocks.org/mike/algorithms/) - Mike Bostock's essay on visualizing sampling, shuffling, sorting and maze generation.
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Interactive animations by David Galles, University of San Francisco.
 - [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms) - Side-by-side animations comparing sorting algorithms, hosted by Toptal.
-- [String Matching Visualization](http://whocouldthat.be/visualizing-string-matching)
 - [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - Interactive grid demo of A*, Dijkstra, BFS, Jump Point Search and other pathfinding algorithms.
 - [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html) - Red Blob Games.
 - [Python Tutor](https://pythontutor.com) - Step-by-step visual execution of Python, JavaScript, C, C++ and Java code.
@@ -159,7 +157,6 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 ## Miscellaneous
 - [The Algorithms](https://github.com/TheAlgorithms) - Open-source implementations of algorithms in every major language.
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT/playlists) - YouTube playlists of full MIT course lectures.
-- [OEDb(Open Education Databases): Algorithm](https://www.oedb.org/open/search-results/?search-term=algorithm)
 - [Awesome Data Science](https://github.com/academic/awesome-datascience) - Curated list of data science learning resources.
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - Curated list of machine learning frameworks, libraries and software by language.
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.

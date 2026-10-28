@@ -100,11 +100,9 @@
 - [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - 코드로부터 알고리즘을 시각화하는 인터랙티브 플랫폼.
 - [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Workshape.io가 만든 DFS와 BFS 인터랙티브 설명.
 - [VisuAlgo](https://visualgo.net) - 영어, 한국어, 중국어, 일본어.
-- [Algomation](https://www.algomation.com)
 - [Algorithms Visualization](https://bost.ocks.org/mike/algorithms/) - 샘플링, 셔플, 정렬, 미로 생성 알고리즘 시각화를 다룬 Mike Bostock의 글.
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - University of San Francisco의 David Galles가 만든 인터랙티브 애니메이션.
 - [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms) - Toptal이 제공하는 정렬 알고리즘 나란히 비교 애니메이션.
-- [String Matching Visualization](http://whocouldthat.be/visualizing-string-matching)
 - [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - A*, Dijkstra, BFS, Jump Point Search 등 경로 탐색 알고리즘의 인터랙티브 격자 데모.
 - [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html) - Red Blob Games.
 - [Python Tutor](https://pythontutor.com) - Python, JavaScript, C, C++, Java 코드의 실행 과정을 단계별로 시각화.
@@ -183,7 +181,6 @@
 
 - [The Algorithms](https://github.com/TheAlgorithms) - 주요 언어별 알고리즘 구현을 모은 오픈소스 프로젝트.
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT/playlists) - MIT 강의 전체를 담은 YouTube 재생목록.
-- [OEDb(Open Education Databases): Algorithm](https://www.oedb.org/open/search-results/?search-term=algorithm)
 - [Awesome Data Science](https://github.com/academic/awesome-datascience) - 데이터 과학 학습 자료를 엄선한 목록.
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - 언어별 머신러닝 프레임워크, 라이브러리, 소프트웨어를 엄선한 목록.
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - 같은 문제의 해결책을 다양한 언어로 해결책을 제시하는 곳입니다. 언어를 비교하는 데 좋습니다.
