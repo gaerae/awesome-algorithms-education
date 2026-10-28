@@ -1,10 +1,12 @@
+<!--lint disable no-file-name-mixed-case-->
+
 # Awesome Algorithms Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > 알고리즘을 배우고 연습하기 위한 강좌, 온라인 저지, 시각화 도구, 도서, 대회를 엄선한 목록입니다.
 
 유료라고 표시한 항목 외에는 모두 무료로 읽거나 사용할 수 있으며, 한국어 자료에는 따로 표시를 두어 영어와 한국어 학습자 모두가 자신에게 맞는 자료를 찾을 수 있게 했습니다. 알고리즘 구현 코드나 대회 특화 자료는 [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)과 [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms#readme)을 참고하세요.
 
-만약 기여하고 싶다면, [기여 가이드](contributing.md) 문서를 확인하세요.
+만약 기여하고 싶다면, [기여 가이드](CONTRIBUTING.md) 문서를 확인하세요.
 
 [English](README.md) | **한국어**
 
@@ -62,7 +64,6 @@
 - [Codeforces](https://codeforces.com) - 영어, 러시아어 / 거의 매주 열리는 레이팅 라운드와 Educational 라운드, 방대한 문제 아카이브와 커뮤니티 블로그.
 - [AtCoder](https://atcoder.jp) - 영어, 일본어 / 매주 열리는 Beginner Contest와 Regular, Grand, Heuristic 대회를 여는 일본 AtCoder의 플랫폼.
 - [UVa Online Judge](https://onlinejudge.org) - 고전 문제 아카이브. 진행 상황을 추적하는 uHunt와 ICPC Live Archive 포함.
-- [A2 Online Judge](https://a2oj.netlify.app) - 서비스가 종료된 a2oj.com 문제 사다리의 보존 미러.
 - [ICPC Problem Archive](https://icpc.kattis.com) - Kattis / 최근 ICPC 월드 파이널 기출 문제를 난이도별로 모아 Kattis에서 채점한다.
 - [CS Academy](https://csacademy.com) - 영어, 러시아어, 아랍어 / 동적 배점 라운드를 열며 그래프 에디터, 기하 도구 같은 부가 도구를 제공한다.
 - [CSES Problem Set](https://cses.fi/problemset/) - 입문 문제부터 고급 기법까지 주제별로 묶인 문제 모음.
@@ -73,7 +74,6 @@
 - [Learneroo Algorithms Tutorials](https://www.learneroo.com/subjects/8) - 문제를 풀면서 알고리즘과 자료구조를 배우는 튜토리얼.
 - [LeetCode](https://leetcode.com/problemset/) - 영어, 중국어 / 주제와 난이도로 태그된 면접 대비형 문제 은행으로 매주·격주 대회를 연다.
 - [Rosalind](https://rosalind.info/problems/locations/) - 생물정보학과 프로그래밍 문제. 초보자용 Python Village부터 시작.
-- [ShareCode](https://sharecode.io) - 과거 대회 문제를 모아 둔 읽기 전용 아카이브 온라인 저지.
 - [Snakify](https://snakify.org) - 100개 이상의 연습 문제가 있는 초보자용 Python 3 강좌.
 - [Sphere Online Judge (SPOJ)](https://www.spoj.com) - 다양한 프로그래밍 언어를 지원하는 대규모 고전 문제 아카이브.
 - [beecrowd](https://judge.beecrowd.com) - 영어, 스페인어, 브라질 포르투갈어 / 대회와 방대한 문제 아카이브를 갖춘 저지로, 구 URI Online Judge.
@@ -107,7 +107,7 @@
 - [Python Tutor](https://pythontutor.com) - Python, JavaScript, C, C++, Java 코드의 실행 과정을 단계별로 시각화.
 - [Algorithm Wiki from Will Thimbleby](https://thimbleby.net/algorithms/) - 실제 JavaScript 구현을 실행해 시각화하는 인터랙티브 위키.
 - [TensorFlow Playground](http://playground.tensorflow.org) - 브라우저에서 작은 신경망을 직접 조작해 보는 데모.
-- [Algovis](https://github.com/enjalot/algovis) - enjalot이 정리한 알고리즘 시각화 프로젝트·도구 모음으로 Tailspin, Vamonos, Tangle 등을 담고 있다.
+- [Algovis](https://github.com/enjalot/algovis) - GitHub 사용자 enjalot이 정리한 알고리즘 시각화 프로젝트·도구 모음으로 Tailspin, Vamonos, Tangle 등을 담고 있다.
 - [Vamonos](http://rosulek.github.io/vamonos) - JavaScript 프로그래밍 언어 / 오리건주립대에서 만든 라이브러리로 배열·그래프 알고리즘을 중단점과 되감기로 단계별 시각화한다.
 - [The Sound of Sorting](https://panthema.net/2013/sound-of-sorting/) - C ++ 프로그래밍 언어 / Timo Bingmann의 데모로 수십 가지 정렬 알고리즘의 비교 연산마다 막대를 그리고 소리를 낸다.
 
@@ -132,7 +132,7 @@
 - [Introduction to Algorithms, 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY) - MIT 6.006 / Demaine, Ku, Solomon이 정렬, 트리, 그래프, 동적 계획법을 다루는 학부 강의와 문제 풀이 세션 32편.
 - [Design and Analysis of Algorithms, 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp) - MIT 6.046J / Demaine, Devadas, Lynch가 무작위화, 네트워크 플로우, NP-완전성을 다루는 심화 강의와 복습 세션 34편.
 - [Introduction to Algorithms, 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) - MIT 6.006 / Devadas와 Demaine이 정렬, 해싱, 그래프 탐색, 최단 경로, 동적 계획법을 다루는 강의와 복습 세션 47편.
-- [Merge Sort vs Quick Sort](https://youtu.be/es2T6KY45cA) - udiprod의 애니메이션 비교 영상.
+- [Merge Sort vs Quick Sort](https://youtu.be/es2T6KY45cA) - YouTube 채널 udiprod의 애니메이션 비교 영상.
 - [15 Sorting Algorithms in 6 Minutes](https://youtu.be/kPRA0W1kECg) - Timo Bingmann / 퀵 정렬, 병합 정렬부터 보고 정렬까지 정렬 알고리즘 15가지를 소리와 함께 시각화한 6분짜리 영상.
 - [AlgoRythmics](https://www.youtube.com/user/AlgoRythmics/videos) - Sapientia University / 민속 무용수들이 버블, 퀵, 병합 정렬 같은 정렬·탐색 알고리즘을 춤으로 표현한 영상 14편.
 
@@ -155,7 +155,7 @@
 ## Articles
 > 문서
 
-- [Algorithms for Competitive Programming](https://cp-algorithms.com) - e-maxx 알고리즘 문서의 영어 번역.
+- [Algorithms for Competitive Programming](https://cp-algorithms.com) - 러시아어 사이트 e-maxx의 알고리즘 문서를 영어로 옮긴 번역본.
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com) - Eric Rowell이 정리한 주요 자료구조 연산과 정렬 알고리즘의 시간·공간 복잡도.
 - [stoimen's web log](http://www.stoimen.com/category/algorithms) - 고전 알고리즘과 자료구조를 다룬 블로그 연재.
 - [What are the best and efficient ways to learn algorithms for beginners?](https://www.quora.com/What-are-the-best-and-efficient-ways-to-learn-algorithms-for-beginners) - Quora / 기초부터 다진 뒤 교재 학습과 온라인 저지에서의 꾸준한 연습을 권하는 커뮤니티 답변 모음.

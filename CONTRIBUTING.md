@@ -14,3 +14,7 @@
 * Mark non-English resources with the language (for example `- Korean.`) and paid resources with `Paid Content.`
 * Do not add link-building or promotional content. Resources must be about learning or practicing algorithms and freely accessible to read, even if some features are paid.
 * Check that the link works before opening a pull request. CI runs [awesome-lint](https://github.com/sindresorhus/awesome-lint) and a link checker on every pull request.
+
+## Code of conduct
+
+This project follows the [Contributor Covenant](CODE_OF_CONDUCT.md). By participating you agree to keep interactions respectful.

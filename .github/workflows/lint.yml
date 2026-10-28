@@ -22,6 +22,8 @@ jobs:
         with:
           node-version: 20
       - run: npx --yes awesome-lint
+      - name: Lint the Korean README with the same rules
+        run: npx --yes awesome-lint README.ko.md
 
   links:
     name: Link check
@@ -38,5 +40,5 @@ jobs:
             --max-retries 3
             --user-agent "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124.0 Safari/537.36"
             --exclude 'youtube\.com|youtu\.be|quora\.com|facebook\.com|leetcode\.com|codeforces\.com|projecteuler\.net|spoj\.com|poj\.org|topcoder\.com|algospot\.com|whocouldthat\.be'
-            README.md README.ko.md contributing.md
+            README.md README.ko.md CONTRIBUTING.md
           fail: true
