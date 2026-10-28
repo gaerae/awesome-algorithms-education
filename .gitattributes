@@ -1,2 +1,2 @@
-* text=auto
-readme*.md merge=union
+* text=auto eol=lf
+README*.md merge=union

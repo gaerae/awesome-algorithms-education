@@ -1,1 +1,11 @@
-.idea
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+
+# Local awesome-lint / lychee runs
+node_modules/
+.lycheecache
