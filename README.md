@@ -161,3 +161,4 @@ If you want to contribute, please read the [contribution guidelines](CONTRIBUTIN
 - [CheckiO](https://checkio.org) - Online game for Python and JavaScript coders.
 - [HUST Online Judge System](https://github.com/hustoj/hustoj-neo) - PHP (Laravel) rewrite of the HUST judge that sends submissions to separate judge servers over RabbitMQ.
 - [Tech stack for Baekjoon online judge](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C/) - Korean / Startlink's write-up of how the Baekjoon judge was built and which technologies it runs on.
+- [QuizQuip](https://quizquip.com) - Free Singapore Sec 1-2 Science revision: notes, quizzes, topical questions and original practice papers.
