@@ -9,8 +9,7 @@ If you want to contribute, please read the [contribution guidelines](CONTRIBUTIN
 **English** | [한국어](README.ko.md)
 
 ## Contents
-- [Courses](#courses)
-- [Competitive programming](#competitive-programming)
+- [Courses](#courses- [Competitive programming](#competitive-programming)
 - [Visualizations](#visualizations)
 - [Interviews](#interviews)
 - [Videos](#videos)
