@@ -104,8 +104,7 @@ If you want to contribute, please read the [contribution guidelines](CONTRIBUTIN
 - [Software Engineering technical interviews](https://github.com/kdn251/interviews) - Study guide covering data structures, algorithms, runtime analysis, video lectures and interview books.
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org) - Free curated interview preparation materials, including the Blind 75 and Grind 75 question lists.
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Multi-month computer science study plan for becoming a software engineer.
-- [Interactive Python coding interview challenges](https://github.com/donnemartin/interactive-coding-challenges) - Over 120 algorithm and data structure
-- challenges in Jupyter notebooks, with solutions and Anki flashcards.
+- [Interactive Python coding interview challenges](https://github.com/donnemartin/interactive-coding-challenges) - Over 120 algorithm and data structure challenges in Jupyter notebooks, with solutions and Anki flashcards.
 
   - [DSA Tracker](https://dsatracker.tech) - Free problem list ordered by target role, graded on hidden tests in four languages, with revision timed by your own ratings.
   
