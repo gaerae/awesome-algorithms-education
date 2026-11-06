@@ -105,7 +105,7 @@ If you want to contribute, please read the [contribution guidelines](CONTRIBUTIN
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org) - Free curated interview preparation materials, including the Blind 75 and Grind 75 question lists.
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Multi-month computer science study plan for becoming a software engineer.
 - [Interactive Python coding interview challenges](https://github.com/donnemartin/interactive-coding-challenges) - Over 120 algorithm and data structure challenges in Jupyter notebooks, with solutions and Anki flashcards.
-  - [DSA Tracker](https://dsatracker.tech) - Free problem list ordered by target role, graded on hidden tests in four languages, with revision timed by your own ratings.
+- [DSA Tracker](https://dsatracker.tech) - Free problem list ordered by target role, graded on hidden tests in four languages, with revision timed by your own ratings.
 
   ## Videos
 - [How algorithms shape our world](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world) - Kevin Slavin / 2011 TED talk on how trading, espionage and recommendation algorithms shape everyday life.
