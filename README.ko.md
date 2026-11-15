@@ -121,6 +121,7 @@
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org) - Blind 75, Grind 75 문제 목록을 포함한 무료 면접 준비 자료 모음.
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - 소프트웨어 엔지니어가 되기 위한 수개월짜리 컴퓨터 과학 학습 계획.
 - [Interactive Python coding interview challenges](https://github.com/donnemartin/interactive-coding-challenges) - Jupyter 노트북으로 제공되는 120개 이상의 알고리즘·자료구조 문제. 풀이와 Anki 플래시카드 포함.
+- [Algo150](https://algo150.com) - 42개 패턴으로 정리된 코딩 면접 대표 문제 150개와 단계별 힌트를 브라우저에서 바로 연습.
 
 ## Videos
 > 비디오
